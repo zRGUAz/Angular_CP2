@@ -1,5 +1,5 @@
 {
-  "name": "projeto",
+  "name": "proj-services",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:projeto": "node dist/projeto/server/server.mjs"
+    "serve:ssr:proj-services": "node dist/proj-services/server/server.mjs"
   },
   "private": true,
   "dependencies": {
